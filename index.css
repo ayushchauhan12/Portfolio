@@ -23,8 +23,8 @@ section {
 }
 .start h2 {
   font-size: 4em;
-  color: white;
-  font-weight: 400;
+  color: grey;
+  font-weight: 500;
   line-height: 1.5em;
 }
 .start h2 span {
